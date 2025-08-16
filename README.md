@@ -21,11 +21,11 @@ We’re going to use Microsoft Fabric to build an end-to-end fleet analytics pip
 
 Zeda Limited manages one of Southern Africa’s largest rental and leasing fleets. With operations spanning retail, corporate, and government clients, the business must balance:
 
-Utilization Efficiency → ensuring vehicles generate revenue and minimizing idle time.
+**Utilization Efficiency** → ensuring vehicles generate revenue and minimizing idle time.
 
-Cost Management → reducing maintenance and downtime costs that impact profitability.
+**Cost Management** → reducing maintenance and downtime costs that impact profitability.
 
-Strategic Reporting → delivering insights to EXCO, GMs, OEMs, and NAAMSA for operational planning and compliance.
+**Strategic Reporting** → delivering insights to EXCO, GMs, OEMs, and NAAMSA for operational planning and compliance.
 
 The data-driven fleet analytics initiative addresses these challenges by providing a single source of truth for performance tracking, cost optimization, and strategic decision-making.
 
