@@ -23,4 +23,4 @@
     - Click **+ New** → **Notebook**. Ensure the language is set to **PySpark**.
     - Attach your Lakehouse to the notebook.
 2. **Python Code to Fetch Data**
-   - Use **[Bronze Notebook](Microsoft-Fabric-ZedaFleet-Analysis-Project/notebooks/bronzenotebook):** Access to the project dataset (csv files).
+   - Use **[Bronze Notebook](Notebooks/Bronze Notebook.ipynb):** Access to the project dataset (csv files).
