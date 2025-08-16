@@ -5,9 +5,9 @@
 # Zeda Fleet Analytics – End-to-End Gold Layer Project
 ## Solution Overview
 
-We’re going to use Microsoft Fabric to build an end-to-end fleet analytics pipeline using the medallion architecture. This involves:
+I used Microsoft Fabric to build an end-to-end fleet analytics pipeline using the medallion architecture. This involves:
 
-**Bronze Layer**: Collect raw operational data from ERP, IoT telemetry, and customer interactions.
+**Bronze Layer**: Collect raw operational data from ERP, CRM, IoT Datasets.
 
 **Silver Layer**: Transform it into clean, structured fleet datasets.
 
