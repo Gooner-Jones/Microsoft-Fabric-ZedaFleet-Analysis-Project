@@ -1,5 +1,7 @@
 # Microsoft-Fabric-ZedaFleet-Analysis-Project
 
+---
+
 # Zeda Fleet Analytics – End-to-End Gold Layer Project
 ## Solution Overview
 
@@ -15,6 +17,8 @@ Power BI: Visualise fleet, revenue, and maintenance insights interactively.
 
 Data Factory: Automate the entire process, ensuring fresh reporting daily.
 
+---
+
 ## Business Case
 
 Zeda Limited manages one of Southern Africa’s largest rental and leasing fleets. With operations spanning retail, corporate, and government clients, the business must balance:
@@ -26,6 +30,8 @@ Cost Management → reducing maintenance and downtime costs that impact profitab
 Strategic Reporting → delivering insights to EXCO, GMs, OEMs, and NAAMSA for operational planning and compliance.
 
 The data-driven fleet analytics initiative addresses these challenges by providing a single source of truth for performance tracking, cost optimization, and strategic decision-making.
+
+---
 
 ## Medallion Architecture in Action
 
@@ -55,6 +61,8 @@ How We Do It: Join domain tables, add derived fields like utilization_rate, cost
 
 Why It’s Important: Creates ready-to-consume insights for reporting and analysis.
 
+---
+
 ## Power BI Visualisation
 
 What It Does: Visualises KPIs like utilization trends, branch revenue distribution, downtime hotspots, and maintenance vs profit margins.
@@ -71,6 +79,8 @@ How We Do It: Schedule Data Factory pipelines to refresh data daily.
 
 Why It’s Important: Ensures leadership always has up-to-date insights.
 
+---
+
 ## Executive Summary
 
 Utilization: Economy and commercial vehicles deliver the highest usage, while premium vehicles show underutilization.
@@ -82,6 +92,8 @@ Cost vs Profitability: Maintenance costs rising faster than profits in older fle
 Customer Engagement: Corporate clients generate the majority of leasing revenue but show low engagement in loyalty programs.
 
 Insights Deep Dive
+
+---
 
 ## Advanced Analysis
 
@@ -95,6 +107,8 @@ Insights Deep Dive
 
 🎯 Segmentation: Economy segment achieves the best utilization-to-revenue balance.
 
+---
+
 ## Exploratory Analysis
 
 Cardinality: Wide customer diversity, but top corporates dominate revenue.
@@ -104,6 +118,8 @@ Date Exploration: Telemetry gaps indicate IoT device under-reporting.
 Magnitude: Downtime clustering in high-mileage fleets.
 
 Ranking: Top 10 customers = ~40% of leasing revenue.
+
+---
 
 ## Recommendations
 
@@ -117,6 +133,8 @@ Customer Loyalty: Design tailored corporate retention programs.
 
 Data Coverage: Enhance IoT telemetry adoption for full fleet visibility.
 
-Final Thoughts
+---
+
+## Final Thoughts
 
 By following this framework, Zeda Fleet builds a scalable, automated, and business-aligned analytics pipeline. Using Microsoft Fabric + Medallion Architecture, the company gains a single source of truth for fleet insights—supporting strategic planning, operational efficiency, and external compliance reporting.
