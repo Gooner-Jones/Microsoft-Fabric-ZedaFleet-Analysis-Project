@@ -128,3 +128,9 @@ Insights Deep Dive
 ## Final Thoughts
 
 By following this framework, Zeda Fleet builds a scalable, automated, and business-aligned analytics pipeline. Using Microsoft Fabric + Medallion Architecture, the company gains a single source of truth for fleet insights—supporting strategic planning, operational efficiency, and external compliance reporting.
+
+---
+# About Me
+Hi, I'm Neo Jones — a Microsoft Certified Fabric Analytics Engineer and Microsoft Certified Fabric Data Engineer Associate with a growing passion for data engineering. I thrive on solving real-world problems using SQL, and I'm especially excited about the capabilities of Microsoft Fabric. From building data pipelines to exploring insights in the Lakehouse, I enjoy every part of working with data inside this evolving ecosystem.
+
+This portfolio reflects my journey into the tech field, showcasing my hands-on projects, SQL skills, and curiosity-driven learning. Outside of work and code, I’m a proud single dad and a lifelong Arsenal supporter (yes, even through the tough seasons!).
