@@ -1,5 +1,5 @@
 ### Step 1: Setup
-**[Datasets](datasets/):** Access to the project dataset (csv files).
+**[Datasets](https://github.com/Gooner-Jones/SQL-Data-Warehouse-Project/tree/main/datasets):** Access to the project dataset (csv files).
 
 1. **Create Microsoft Work Email**
 2. **Sign In to Fabric**
