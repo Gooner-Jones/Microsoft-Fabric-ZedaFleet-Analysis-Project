@@ -1,7 +1,7 @@
 # Microsoft-Fabric-ZedaFleet-Analysis-Project
 
-Zeda Fleet Analytics – End-to-End Gold Layer Project
-Solution Overview
+# Zeda Fleet Analytics – End-to-End Gold Layer Project
+## Solution Overview
 
 We’re going to use Microsoft Fabric to build an end-to-end fleet analytics pipeline using the medallion architecture. This involves:
 
@@ -15,7 +15,7 @@ Power BI: Visualise fleet, revenue, and maintenance insights interactively.
 
 Data Factory: Automate the entire process, ensuring fresh reporting daily.
 
-Business Case
+## Business Case
 
 Zeda Limited manages one of Southern Africa’s largest rental and leasing fleets. With operations spanning retail, corporate, and government clients, the business must balance:
 
@@ -27,7 +27,7 @@ Strategic Reporting → delivering insights to EXCO, GMs, OEMs, and NAAMSA for o
 
 The data-driven fleet analytics initiative addresses these challenges by providing a single source of truth for performance tracking, cost optimization, and strategic decision-making.
 
-Medallion Architecture in Action
+## Medallion Architecture in Action
 
 Let’s break down each layer of the pipeline:
 
@@ -55,7 +55,7 @@ How We Do It: Join domain tables, add derived fields like utilization_rate, cost
 
 Why It’s Important: Creates ready-to-consume insights for reporting and analysis.
 
-Power BI Visualisation
+## Power BI Visualisation
 
 What It Does: Visualises KPIs like utilization trends, branch revenue distribution, downtime hotspots, and maintenance vs profit margins.
 
@@ -63,7 +63,7 @@ How We Do It: Connect Power BI directly to Gold Layer views for interactive dash
 
 Why It’s Important: Makes complex fleet data accessible and actionable for stakeholders.
 
-Orchestration with Data Factory
+## Orchestration with Data Factory
 
 What It Does: Automates ingestion, transformation, and enrichment.
 
@@ -71,7 +71,7 @@ How We Do It: Schedule Data Factory pipelines to refresh data daily.
 
 Why It’s Important: Ensures leadership always has up-to-date insights.
 
-Executive Summary
+## Executive Summary
 
 Utilization: Economy and commercial vehicles deliver the highest usage, while premium vehicles show underutilization.
 
@@ -83,7 +83,7 @@ Customer Engagement: Corporate clients generate the majority of leasing revenue 
 
 Insights Deep Dive
 
-Advanced Analysis
+## Advanced Analysis
 
 📈 Change-over-Time: Utilization trending downward post-peak season.
 
@@ -95,7 +95,7 @@ Advanced Analysis
 
 🎯 Segmentation: Economy segment achieves the best utilization-to-revenue balance.
 
-Exploratory Analysis
+## Exploratory Analysis
 
 Cardinality: Wide customer diversity, but top corporates dominate revenue.
 
@@ -105,7 +105,7 @@ Magnitude: Downtime clustering in high-mileage fleets.
 
 Ranking: Top 10 customers = ~40% of leasing revenue.
 
-Recommendations
+## Recommendations
 
 Fleet Mix: Reallocate underutilized premium cars toward high-demand economy/commercial categories.
 
