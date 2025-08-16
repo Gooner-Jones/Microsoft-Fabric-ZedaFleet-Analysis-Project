@@ -1,0 +1,34 @@
+[
+    {"p_rel_url": "Gooner-Jones/Fleet-Analysis/refs/heads/main/datasets/crm_data/customer_interactions.csv",
+     "p_sink_folder": "datasets/crm_data",
+     "p_sink_file": "customer_interactions.csv"
+    },
+    {"p_rel_url": "Gooner-Jones/Fleet-Analysis/refs/heads/main/datasets/crm_data/customers.csv",
+     "p_sink_folder": "datasets/crm_data",
+     "p_sink_file": "customers.csv"
+    },
+    {"p_rel_url": "Gooner-Jones/Fleet-Analysis/refs/heads/main/datasets/erp_data/car_sales.csv",
+     "p_sink_folder": "datasets/erp_data",
+     "p_sink_file": "car_sales.csv"
+    },
+    {"p_rel_url": "Gooner-Jones/Fleet-Analysis/refs/heads/main/datasets/erp_data/leasing_contracts.csv",
+     "p_sink_folder": "datasets/erp_data",
+     "p_sink_file": "leasing_contracts.csv"
+    },
+    {"p_rel_url": "Gooner-Jones/Fleet-Analysis/refs/heads/main/datasets/erp_data/rentals.csv",
+     "p_sink_folder": "datasets/erp_data",
+     "p_sink_file": "rentals.csv"
+    },
+    {"p_rel_url": "Gooner-Jones/Fleet-Analysis/refs/heads/main/datasets/erp_data/vehicle_maintenance.csv",
+     "p_sink_folder": "datasets/erp_data",
+     "p_sink_file": "vehicle_maintenance.csv"
+    },
+    {"p_rel_url": "Gooner-Jones/Fleet-Analysis/refs/heads/main/datasets/erp_data/vehicles.csv",
+     "p_sink_folder": "datasets/erp_data",
+     "p_sink_file": "vehicles.csv"
+    },
+    {"p_rel_url": "Gooner-Jones/Fleet-Analysis/refs/heads/main/datasets/iot_data/fleet_telemetry.csv",
+     "p_sink_folder": "datasets/iot_data",
+     "p_sink_file": "fleet_telemetry.csv"
+    }
+]
