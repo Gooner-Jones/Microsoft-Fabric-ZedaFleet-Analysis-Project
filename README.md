@@ -37,7 +37,7 @@ The data-driven fleet analytics initiative addresses these challenges by providi
 
 Let’s break down each layer of the pipeline:
 
-Bronze Layer (Raw Data Ingestion)
+## Bronze Layer (Raw Data Ingestion)
 
 What It Does: Stores raw ERP extracts, rental logs, leasing contracts, maintenance events, and IoT telemetry.
 
@@ -45,7 +45,7 @@ How We Do It: Land CSV/JSON extracts and IoT feeds into the Fabric Lakehouse.
 
 Why It’s Important: Preserves original operational data for audit and traceability.
 
-Silver Layer (Data Transformation)
+## Silver Layer (Data Transformation)
 
 What It Does: Cleans and structures the raw data into domain tables: customers, vehicles, rentals, contracts, maintenance, telemetry, and interactions.
 
@@ -53,7 +53,7 @@ How We Do It: Use PySpark + Delta tables for standardized schemas and consistent
 
 Why It’s Important: Provides a trusted, structured foundation for analytics.
 
-Gold Layer (Data Enrichment)
+## Gold Layer (Data Enrichment)
 
 What It Does: Enriches Silver data with KPIs and business-friendly views (e.g., vehicle_lifecycle, branch_revenue_summary, maintenance_financials, customer_interaction_summary).
 
