@@ -15,7 +15,7 @@ We’re going to use Microsoft Fabric to build an end-to-end fleet analytics pip
 
 **Data Factory**: Automate the entire process, ensuring fresh reporting daily.
 
-![Data Engineering vs Software Engineering](images/[Data_Engineering_vs_Software_Engineering_(2).webp](https://github.com/Gooner-Jones/Microsoft-Fabric-ZedaFleet-Analysis-Project/blob/main/Data_Engineering_vs_Software_Engineering_(2).webp))
+![Data Engineering vs Software Engineering]([images/[Data_Engineering_vs_Software_Engineering_(2).webp](https://github.com/Gooner-Jones/Microsoft-Fabric-ZedaFleet-Analysis-Project/blob/main/Data_Engineering_vs_Software_Engineering_(2).webp)](https://github.com/Gooner-Jones/Microsoft-Fabric-ZedaFleet-Analysis-Project/blob/main/Data_Engineering_vs_Software_Engineering_(2).webp))
 
 ---
 
