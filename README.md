@@ -15,6 +15,8 @@ We’re going to use Microsoft Fabric to build an end-to-end fleet analytics pip
 
 **Data Factory**: Automate the entire process, ensuring fresh reporting daily.
 
+<img width="2800" height="2000" alt="Zeda_BI_Visuals_Placeholder" src="https://github.com/user-attachments/assets/e7775c8b-a069-49e8-a757-f92a04a7ea1f" />
+
 ---
 
 ## Business Case
