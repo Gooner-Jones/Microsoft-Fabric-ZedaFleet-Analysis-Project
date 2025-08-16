@@ -37,15 +37,15 @@ Let’s break down each layer of the pipeline:
 
 ### Bronze Layer (Raw Data Ingestion)
 
-**What It Does**: Stores raw ERP extracts, rental logs, leasing contracts, maintenance events, and IoT telemetry.
+**What It Does**: Stores raw ERP, CRM and IoT Data.
 
-**How To Do It**: Land CSV/JSON extracts and IoT feeds into the Fabric Lakehouse.
+**How To Do It**: Land CSV/JSON extracts and ERP, CRM, IoT feeds into the Fabric Lakehouse.
 
 **Why It’s Important**: Preserves original operational data for audit and traceability.
 
 ### Silver Layer (Data Transformation)
 
-**What It Does**: Cleans and structures the raw data into domain tables: customers, vehicles, rentals, contracts, maintenance, telemetry, and interactions.
+**What It Does**: Cleans and structures the raw data into domain tables: customers, vehicles, rentals, contracts, maintenance, telemetry, and customer_interactions.
 
 **How To Do It**: Use PySpark + Delta tables for standardized schemas and consistent data quality.
 
@@ -87,15 +87,15 @@ Insights Deep Dive
 
 ## Advanced Analysis
 
-📈 **Change-over-Time**: Utilization trending downward post-peak season.
+**Change-over-Time**: Utilization trending downward post-peak season.
 
-📊 **Cumulative Analysis**: Coastal branches lead YTD revenue growth.
+**Cumulative Analysis**: Coastal branches lead YTD revenue growth.
 
-⚖️ **Performance Analysis**: Strong negative correlation between downtime and profit margin.
+**Performance Analysis**: Strong negative correlation between downtime and profit margin.
 
-🧩 **Part-to-Whole**: 5 branches contribute >60% of total profit.
+**Part-to-Whole**: 5 branches contribute >60% of total profit.
 
-🎯 **Segmentation**: Economy segment achieves the best utilization-to-revenue balance.
+**Segmentation**: Economy segment achieves the best utilization-to-revenue balance.
 
 ---
 
